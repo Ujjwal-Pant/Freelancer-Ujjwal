@@ -1,0 +1,296 @@
+	
+<section id="tourConcert" class="tour-concert">
+		<div class="container">
+				<div class="section-header">
+					<h2 class="section-title">Tours & Concerts</h2>
+					<span>Get your early discount on tickets</span>
+				</div>
+			<div class="row">
+				<div class="special-events-list">
+					<div class="events-meta">
+						<span class="events-date">11 JUN</span>
+						<div class="meta-location">
+							<strong>TACOMA, WA, USA</strong>
+							<span>TACOMA DOME</span>
+						</div><!--meta-location-->
+						<div class="events-btn">
+							<a href="#" class="btn btn-small btn-swipe">tickets</a>
+						</div>
+					</div><!--events-meta-->
+					<div class="events-meta">
+						<span class="events-date">02 AUG</span>
+						<div class="meta-location">
+							<strong>SALT LAKE CITY, USA</strong>
+							<span>VIVINT SMART HOME ARENA</span>
+						</div>
+						<div class="events-btn">
+							<a href="#" class="btn btn-small btn-swipe">tickets</a>
+						</div>
+					</div><!--events-meta-->
+					<div class="events-meta">
+						<span class="events-date">30 SEP</span>
+						<div class="meta-location">
+							<strong>KANSAS CITY,MO,USA</strong>
+							<span>T-MOBILE ARENA</span>
+						</div>
+						<div class="events-btn">
+							<a href="#" class="btn btn-small btn-swipe">tickets</a>
+						</div>
+					</div><!--events-meta-->
+					<div class="events-meta">
+						<span class="events-date">11 JUN</span>
+						<div class="meta-location">
+							<strong>TACOMA, WA, USA</strong>
+							<span>TACOMA DOME</span>
+						</div>
+						<div class="events-btn">
+							<a href="#" class="btn btn-small btn-swipe">tickets</a>
+						</div>
+					</div><!--events-meta-->
+					<div class="events-meta">
+						<span class="events-date">02 AUG</span>
+						<div class="meta-location">
+							<strong>SALT LAKE CITY, USA</strong>
+							<span>VIVINT SMART HOME ARENA</span>
+						</div>
+						<div class="events-btn">
+							<a href="#" class="btn btn-small btn-swipe">tickets</a>
+						</div>
+					</div><!--events-meta-->
+					<div class="events-meta">
+						<span class="events-date">30 SEP</span>
+						<div class="meta-location">
+							<strong>KANSAS CITY,MO,USA</strong>
+							<span>T-MOBILE ARENA</span>
+						</div>
+						<div class="events-btn">
+							<a href="#" class="btn btn-small btn-swipe">tickets</a>
+						</div>
+					</div><!--events-block-->
+				</div><!--special-events-list-->
+
+				<div class="secondary-title noselect">
+					<h3>TOUR</h3>
+				</div>
+
+			</div>
+		</div>
+	</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer id="footer">
+	<div class="container">
+		<div class="social-links">
+			<ul>
+				<li><a href="#"><img src="images/itunes.png" alt="itunes"></a></li>
+				<li><a href="#"><img src="images/spotify.png" alt="spotify"></a></li>
+			</ul>
+			<ul>
+				<li><a href="#"><i class="icon icon-facebook"></i></a></li>
+				<li><a href="#"><i class="icon icon-github"></i></a></li>
+				<li><a href="#"><i class="icon icon-google-plus"></i></a></li>
+				<li><a href="#"><i class="icon icon-linkedin"></i></a></li>
+				<li><a href="#"><i class="icon icon-twitter"></i></a></li>
+			</ul>
+		</div><!--social-links-->
+		<div class="footer-menu">
+			<ul>
+				<li class="menu-item">
+					<a href="#">Home</a>
+				</li>
+				<li class="menu-item">
+					<a href="#">Pages</a>
+				</li>
+				<li class="menu-item">
+					<a href="#">Features</a>
+				</li>
+				<li class="menu-item">
+					<a href="#">Blog</a>
+				</li>
+				<li class="menu-item">
+					<a href="#">Portfolio</a>
+				</li>
+				<li class="menu-item">
+					<a href="#">Contact</a>
+				</li>
+			</ul>
+		</div><!--widget_nav_menu-->
+		<div class="copyright">
+			<p>© COPYRIGHT VIBEZ HTML TEMPLATE.</p>
+			<p class="align-center">Template by <a href="https://www.templatesjungle.com/" target="_blank">TemplatesJungle</a></p>
+		</div>
+	</div>
+</footer>
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="nav-sidebar">
+    <div class="closebtn">
+        <i class="icon icon-close"></i>
+    </div>        
+
+    <ul>
+        <li class="active"><a href="index.html">Home</a></li>
+        <li><a href="about.html">About <span style="color: #afafaf;">(pro)</span> </a></li>
+        <li><a href="styles.html">Styles <span style="color: #afafaf;">(pro)</span> </a></li>
+        <li><a href="blog.html">Blog <span style="color: #afafaf;">(pro)</span> </a></li>
+        <li><a href="single-post.html">Post Single <span style="color: #afafaf;">(pro)</span> </a></li>
+        <li><a href="shop.html">Our Store <span style="color: #afafaf;">(pro)</span> </a></li>
+        <li><a href="single-product.html">Product Single <span style="color: #afafaf;">(pro)</span> </a></li>
+        <li><a href="cart.html">Cart <span style="color: #afafaf;">(pro)</span> </a></li>
+        <li><a href="checkout.html">Checkout <span style="color: #afafaf;">(pro)</span> </a></li>
+        <li><a href="contact.html">Contact <span style="color: #afafaf;">(pro)</span> </a></li>
+        <li><a href="https://templatesjungle.gumroad.com/l/vibez-free-html-template-for-music-band" target="_blank" style="color: #fe003c "> <b>GET PRO</b>  </a></li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+
+ <button type="button" id="navsidebarCollapse">
+        <a href="javascript:void(0)" onclick="openNav()">
+        	<i class="icon icon-navicon"></i>
+        </a>
+    </button>
+
+
+
+
+
+
+
+
+<div class="social-block">	
+			<div class="social-icon">
+				<a href="facebook.com">
+					<i class="icon icon-facebook"></i>							
+				</a>
+				<a href="twitter.com">
+					<i class="icon icon-twitter"></i>
+				</a>
+				<a href="instagram.com">
+					<i class="icon icon-instagram"></i>
+				</a>
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="store" class="our-store content-light">
+	
+	<div class="container">
+
+		<div class="section-header">
+			<h2 class="section-title text-uppercase">Vibez Merchandises</h2>
+			<span>Get yourself our band merchs</span>
+		</div>
+
+		<div class="store-content">
+
+			<div class="item-content">
+				<a href="#" class="thumb-link"><img src="images/item3.jpg" alt="store"></a>
+				<div class="text-content">
+					<h4 class="item-title"><a href="#">T-shirt</a></h4>
+					<span class="item-price">455$</span>
+				</div>
+			</div><!--post-->
+
+			<div class="item-content">
+				<a href="#" class="thumb-link"><img src="images/item1.jpg" alt="store"></a>
+				<div class="text-content">
+					<h4 class="item-title"><a href="#">T-shirt</a></h4>
+					<span class="item-price">455$</span>
+				</div>
+			</div>
+			<div class="item-content">
+				<a href="#" class="thumb-link"><img src="images/item2.jpg" alt="store"></a>
+				<div class="text-content">
+					<h4 class="item-title"><a href="#">T-shirt</a></h4>
+					<span class="item-price">455$</span>
+				</div>
+			</div><!--post-->
+
+			<div class="item-content">
+				<a href="#" class="thumb-link"><img src="images/item3.jpg" alt="store"></a>
+				<div class="text-content">
+					<h4 class="item-title"><a href="#">T-shirt</a></h4>
+					<span class="item-price">455$</span>
+				</div>
+			</div><!--post-->
+
+			<div class="item-content">
+				<a href="#" class="thumb-link"><img src="images/item3.jpg" alt="store"></a>
+				<div class="text-content">
+					<h4 class="item-title"><a href="#">T-shirt</a></h4>
+					<span class="item-price">455$</span>
+				</div>
+			</div><!--post-->
+
+			
+
+		</div><!--store-content-->
+
+		<div class="text-center">
+			<a href="#" class="btn btn-hover-arrow btn-large btn-pill btn-outline-light icon-forward"><span>Visit Our Store</span></a>
+		</div>
+
+		<div class="secondary-title noselect color-secondary">
+			<h3>PRODUCTS</h3>
+		</div>
+
+	</div>			
+
+	<div class="shadow-overlay"></div>
+</section>
+
+
+
+
+
+
+<div class="text-center">
+			<a href="#" class="btn btn-hover-arrow btn-large btn-pill btn-outline-light icon-forward"><span>Watch all videos</span></a>
+		</div>

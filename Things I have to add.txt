@@ -1,0 +1,7 @@
+automatic changing of main background(for now its done, I added a JS that presses the next button)
+
+
+
+
+
+add a navigation tab in top which takes to new page which are expanded version of home page contents
